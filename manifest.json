@@ -4,7 +4,7 @@
   "description": "Install App and Stay updated with latest trending news",
   "lang": "en",
   "display": "standalone",
-  "background_color": "#f63838",
+  "background_color": "#fffdfc",
   "start_url": "https://www.ontricky.com/?utm_source=homescreen",
   "theme_color": "#f63838",
   "icons": [

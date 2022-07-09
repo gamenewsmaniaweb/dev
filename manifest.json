@@ -9,22 +9,22 @@
   "theme_color": "#f63838",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/ontricky/main/Picsart_22-07-10_00-32-.png",
+      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/dev/main/Picsart_22-07-10_00-58-54-703.png",
       "sizes": "192x192"
     },
     {
-      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/ontricky/main/Picsart_22-07-10_00-32-19-697.png",
+      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/dev/main/Picsart_22-07-10_00-58-54.png",
       "sizes": "512x512"
     },
     {
       "purpose": "maskable",
-      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/ontricky/main/Picsart_22-07-10_00-32-.png",
+      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/dev/main/Picsart_22-07-10_00-58-54-703.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
       "purpose": "maskable",
-      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/ontricky/main/Picsart_22-07-10_00-32-19-697.png",
+      "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/dev/main/Picsart_22-07-10_00-58-54.png",
       "sizes": "512x512",
       "type": "image/png"
     }

@@ -1,11 +1,11 @@
 {
-  "name": "Game News Mania",
-  "short_name": "Game News Mania",
+  "name": "OnTricky",
+  "short_name": "OnTricky",
   "description": "Install App and Stay updated with latest trending news",
   "lang": "en",
   "display": "standalone",
   "background_color": "#f63838",
-  "start_url": "https://www.gamenewsmania.in/?utm_source=homescreen",
+  "start_url": "https://www.ontricky.com/?utm_source=homescreen",
   "theme_color": "#f63838",
   "icons": [
     {
@@ -56,19 +56,19 @@
       "sizes": "540x720"
     }
   ],
-  "android_package_name": "com.gamenewsmania.in",
+  "android_package_name": "com.ontricky.com",
   "prefer_related_applications": true,
   "related_applications": [
     {
-      "id": "com.gamenewsmania.in",
+      "id": "com.ontricky.com",
       "platform": "chromeos_play",
-      "url": "https://play.google.com/store/apps/details?id=com.gamenewsmania.in"
+      "url": "https://play.google.com/store/apps/details?id=com.ontricky.com"
     }
   ],
   "shortcuts": [
     {
       "name": "Latest Post",
-      "url": "https://www.gamenewsmania.in/search?utm_source=homescreen",
+      "url": "https://www.ontricky.com/search?utm_source=homescreen",
       "icons": [
         {
           "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/shortcut-icon1-192.png",
@@ -76,27 +76,7 @@
           "sizes": "192x192"
         }
       ]
-    },
-    {
-      "name": "Wiki",
-      "url": "https://www.gamenewsmania.in/search/label/Wiki?utm_source=homescreen",
-      "icons": [
-        {
-          "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/Picsart_22-07-0Ttf.png",
-          "type": "image/png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "Tools",
-      "url": "https://www.gamenewsmania.in/search/label/Tool?utm_source=homescreen",
-      "icons": [
-        {
-          "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/icon/main/Picsart_22-0-64754.png",
-          "type": "image/png",
-          "sizes": "192x192"
-        }
+    }
       ]
     }
   ]

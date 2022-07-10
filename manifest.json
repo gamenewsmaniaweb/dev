@@ -6,7 +6,7 @@
   "display": "standalone",
   "background_color": "#fffdfc",
   "start_url": "https://www.ontricky.com/?utm_source=homescreen",
-  "theme_color": "#8401ff",
+  "theme_color": "fffdfc",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/gamenewsmaniaweb/dev/main/Picsart_22-07-10_00-58-54-703.png",
